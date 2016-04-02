@@ -1,5 +1,5 @@
 package week1.ex1;
-import helpers.Helper;
+import helpers.HelperInput;
 import week1.ex1.FactorialCalculator;
 
 public class SumFactorialV2_0 {
@@ -9,7 +9,7 @@ public class SumFactorialV2_0 {
 		int n; 
 		int result = 0;
 
-		n = new Helper().inputInt();
+		n = new HelperInput().inputInt();
 		for (i=1; i<=n; i++) {
 			new FactorialCalculator(i);
 			result = result + FactorialCalculator.getSum();	

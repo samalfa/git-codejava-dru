@@ -1,7 +1,7 @@
 package helpers;
 import java.util.Scanner;
 
-public class Helper {
+public class HelperInput {
 
 	public static double inputDouble() {
 		Scanner input = new Scanner(System.in);
@@ -11,5 +11,10 @@ public class Helper {
 	public static int inputInt() {
 		Scanner input = new Scanner(System.in);
 		return input.nextInt();
+	}
+
+	public static String inputString() {
+		Scanner input = new Scanner(System.in);
+		return input.nextLine();
 	}
 }

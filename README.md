@@ -1,7 +1,7 @@
 ## Basic Java Code by Sam Alfa - Learning with Aj.Boy DRU-1/58
 <!-- <img src="SamalfaSublimeTheme-v1-0-0-0.png" /> -->
 
-## Clone Java Code by Sam Alfa:
+## Clone Java Code from Sam Alfa:
 	`git clone https://github.com/samalfa/git-codejava-dru.git`
 
 ## Command Line: ภายใน Path งาน

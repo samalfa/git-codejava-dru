@@ -1,4 +1,4 @@
-package week1.ex1;
+package week1;
 import week1.ex1.*;
 
 public class Ex1SamFactorial {
