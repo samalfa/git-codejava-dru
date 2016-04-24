@@ -13,6 +13,6 @@ public class Student {
 		System.out.println("รหัสนักศึกษา : "+id);
 		System.out.println("ชื่อนักศึกษา : "+name);
 		System.out.println("GPA : "+gpa);
-		System.out.println("===============เพ็ชร์=================");
+		System.out.println("================================");
 	}
 }

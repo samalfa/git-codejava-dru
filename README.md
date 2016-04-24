@@ -26,3 +26,6 @@ Example file: `Javacode.java`
 
 ## By Sam Alfa
 + [Contact me](https://www.facebook.com/sam.tunk) - Inbox on Facebook.
+
+## How to run README.md file: 
+Intreminal: `grip README.md 8009`

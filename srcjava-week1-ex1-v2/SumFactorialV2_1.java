@@ -10,7 +10,7 @@ public class SumFactorialV2_1 {
 		int i, n, result = 0;
 
 		System.out.print("Input: 0 ออกจากโปรแกรม | หรือ Input N: ");
-		n = new HelperInput().inputInt();
+		n = HelperInput.inputInt();
 		number = n;
 		if (n > 0) {
 			for (i=1; i<=n; i++) {
